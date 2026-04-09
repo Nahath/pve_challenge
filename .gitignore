@@ -1,3 +1,4 @@
 *.log
 tools_thumbnail_cache.sqlite3
 CURRENT_SESSION.md
+.claude/settings.local.json
