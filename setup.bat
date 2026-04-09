@@ -4,7 +4,7 @@ echo This script must be run as Administrator.
 echo.
 
 set DOTA_ADDONS="C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons"
-set TARGET="C:\git\pve_challenge"
+set TARGET="C:\git\DotaModHelper\pve_challenge"
 
 if exist %DOTA_ADDONS%\pve_challenge (
     echo Removing existing pve_challenge entry...
