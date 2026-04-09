@@ -1,0 +1,4 @@
+"DOTAAbilities"
+{
+	// Custom item definitions go here
+}

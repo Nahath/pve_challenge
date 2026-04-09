@@ -1,0 +1,9 @@
+"DOTAAbilities"
+{
+	"pve_creep_bolt"
+	{
+		"BaseClass"				"ability_lua"
+		"ScriptFile"			"abilities/pve_creep_bolt"
+		"AbilityBehavior"		"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+	}
+}

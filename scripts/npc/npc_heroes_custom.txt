@@ -1,0 +1,4 @@
+"DOTAHeroes"
+{
+	// Custom hero definitions go here
+}

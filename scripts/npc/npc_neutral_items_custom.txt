@@ -1,0 +1,4 @@
+"DOTAAbilities"
+{
+	// Custom neutral item definitions go here
+}
